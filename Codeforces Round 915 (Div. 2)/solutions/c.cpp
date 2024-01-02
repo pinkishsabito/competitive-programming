@@ -6,6 +6,10 @@ using namespace std;
 const int mod = 1e9 + 7;
 
 int solve() {
+    int n;
+    cin >> n;
+    string s;
+    cin >> s;
     return 0;
 }
 int main() {
